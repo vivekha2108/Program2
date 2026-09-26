@@ -1,3 +1,4 @@
+
 CREATE TABLE student   ( 
   studentID int(5)PRIMARY KEY,
   STUDENTnAME VARCHAR(20)NOT NULL,
